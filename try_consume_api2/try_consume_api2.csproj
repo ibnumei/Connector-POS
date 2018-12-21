@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C315EB95-825A-4109-8397-2290E94CBDF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>try_consume_api2</RootNamespace>
+    <AssemblyName>try_consume_api2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon_01_mG3_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\..\..\..\Desktop\v45\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APIModel.cs" />
+    <Compile Include="API_Article.cs" />
+    <Compile Include="API_Bank.cs" />
+    <Compile Include="API_CekVersion.cs" />
+    <Compile Include="API_CustGroup.cs" />
+    <Compile Include="API_Customer.cs" />
+    <Compile Include="API_DiscountRetail.cs" />
+    <Compile Include="API_DiscountRetailLines.cs" />
+    <Compile Include="API_DiscountSelectedItem.cs" />
+    <Compile Include="API_DiscountStoreApi.cs" />
+    <Compile Include="API_DO_Get.cs" />
+    <Compile Include="API_DO_PUT.cs" />
+    <Compile Include="API_Employee.cs" />
+    <Compile Include="API_Expense.cs" />
+    <Compile Include="API_Inventory.cs" />
+    <Compile Include="API_ItemDimensionBrand.cs" />
+    <Compile Include="API_ItemDimensionColor.cs" />
+    <Compile Include="API_ItemDimensionDepartment.cs" />
+    <Compile Include="API_ItemDimensionDepartmentType.cs" />
+    <Compile Include="API_Item_Dimension.cs" />
+    <Compile Include="API_Mut_Order.cs" />
+    <Compile Include="API_petty_cash.cs" />
+    <Compile Include="API_Promotion.cs" />
+    <Compile Include="API_ReturnOrder.cs" />
+    <Compile Include="API_RO.cs" />
+    <Compile Include="API_SeqNum2.cs" />
+    <Compile Include="API_SequenceNumber.cs" />
+    <Compile Include="API_StoreData.cs" />
+    <Compile Include="API_StoreRelasi1.cs" />
+    <Compile Include="API_Transaction.cs" />
+    <Compile Include="API_TransHistory.cs" />
+    <Compile Include="API_TransToday.cs" />
+    <Compile Include="cek_version.cs" />
+    <Compile Include="Connection.cs" />
+    <Compile Include="CreateTableEpy.cs" />
+    <Compile Include="Crud.cs" />
+    <Compile Include="DeleteData.cs" />
+    <Compile Include="Delete_Data.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_connector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_connector.Designer.cs">
+      <DependentUpon>form_connector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_First_Opened.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_First_Opened.Designer.cs">
+      <DependentUpon>Form_First_Opened.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Reload_Bank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Reload_Bank.Designer.cs">
+      <DependentUpon>Form_Reload_Bank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Reload_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Reload_Employee.Designer.cs">
+      <DependentUpon>Form_Reload_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_utama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_utama.Designer.cs">
+      <DependentUpon>Form_utama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinkSwagger.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Try_API_Inventory.cs" />
+    <Compile Include="Update_Table.cs" />
+    <Compile Include="w_bankcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="w_bankcs.Designer.cs">
+      <DependentUpon>w_bankcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_BudgetPettyCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_BudgetPettyCash.Designer.cs">
+      <DependentUpon>W_BudgetPettyCash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Coba_MEthod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Coba_MEthod.Designer.cs">
+      <DependentUpon>W_Coba_MEthod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_CostCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_CostCategory.Designer.cs">
+      <DependentUpon>W_CostCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_DO_Get.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_DO_Get.Designer.cs">
+      <DependentUpon>W_DO_Get.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_DO_Put.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_DO_Put.Designer.cs">
+      <DependentUpon>W_DO_Put.cs</DependentUpon>
+    </Compile>
+    <Compile Include="w_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="w_employee.Designer.cs">
+      <DependentUpon>w_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Inventorycs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Inventorycs.Designer.cs">
+      <DependentUpon>W_Inventorycs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_item_dmns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_item_dmns.Designer.cs">
+      <DependentUpon>W_item_dmns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="w_logGetData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="w_logGetData.Designer.cs">
+      <DependentUpon>w_logGetData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_MasterDiskon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_MasterDiskon.Designer.cs">
+      <DependentUpon>W_MasterDiskon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_MutasiOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_MutasiOrder.Designer.cs">
+      <DependentUpon>W_MutasiOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="w_petty_cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="w_petty_cash.Designer.cs">
+      <DependentUpon>w_petty_cash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Promotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Promotion.Designer.cs">
+      <DependentUpon>W_Promotion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Request_order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Request_order.Designer.cs">
+      <DependentUpon>W_Request_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Return_order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Return_order.Designer.cs">
+      <DependentUpon>W_Return_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Select_Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Select_Store.Designer.cs">
+      <DependentUpon>W_Select_Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_SeqNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_SeqNumber.Designer.cs">
+      <DependentUpon>W_SeqNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_StoreMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_StoreMaster.Designer.cs">
+      <DependentUpon>W_StoreMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="w_store_relasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="w_store_relasi.Designer.cs">
+      <DependentUpon>w_store_relasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Transaction.Designer.cs">
+      <DependentUpon>W_Transaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_TransHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_TransHistory.Designer.cs">
+      <DependentUpon>W_TransHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_TransToday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_TransToday.Designer.cs">
+      <DependentUpon>W_TransToday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_Voucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_Voucher.Designer.cs">
+      <DependentUpon>W_Voucher.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_connector.resx">
+      <DependentUpon>form_connector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_First_Opened.resx">
+      <DependentUpon>Form_First_Opened.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Reload_Bank.resx">
+      <DependentUpon>Form_Reload_Bank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Reload_Employee.resx">
+      <DependentUpon>Form_Reload_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_utama.resx">
+      <DependentUpon>Form_utama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="w_bankcs.resx">
+      <DependentUpon>w_bankcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_BudgetPettyCash.resx">
+      <DependentUpon>W_BudgetPettyCash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Coba_MEthod.resx">
+      <DependentUpon>W_Coba_MEthod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_CostCategory.resx">
+      <DependentUpon>W_CostCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_DO_Get.resx">
+      <DependentUpon>W_DO_Get.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_DO_Put.resx">
+      <DependentUpon>W_DO_Put.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="w_employee.resx">
+      <DependentUpon>w_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Inventorycs.resx">
+      <DependentUpon>W_Inventorycs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_item_dmns.resx">
+      <DependentUpon>W_item_dmns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="w_logGetData.resx">
+      <DependentUpon>w_logGetData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_MasterDiskon.resx">
+      <DependentUpon>W_MasterDiskon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_MutasiOrder.resx">
+      <DependentUpon>W_MutasiOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="w_petty_cash.resx">
+      <DependentUpon>w_petty_cash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Promotion.resx">
+      <DependentUpon>W_Promotion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Request_order.resx">
+      <DependentUpon>W_Request_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Return_order.resx">
+      <DependentUpon>W_Return_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Select_Store.resx">
+      <DependentUpon>W_Select_Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_SeqNumber.resx">
+      <DependentUpon>W_SeqNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_StoreMaster.resx">
+      <DependentUpon>W_StoreMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="w_store_relasi.resx">
+      <DependentUpon>w_store_relasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Transaction.resx">
+      <DependentUpon>W_Transaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_TransHistory.resx">
+      <DependentUpon>W_TransHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_TransToday.resx">
+      <DependentUpon>W_TransToday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_Voucher.resx">
+      <DependentUpon>W_Voucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon_01_mG3_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

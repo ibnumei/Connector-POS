@@ -1,0 +1,308 @@
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\try_consume_api2.exe
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\try_consume_api2.pdb
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.csprojResolveAssemblyReference.cache
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.exe
+C:\Users\acer\documents\visual studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.exe
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.pdb
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\try_consume_api2.exe
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\try_consume_api2.pdb
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.csprojResolveAssemblyReference.cache
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.w_logGetData.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.Cache
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.w_bankcs.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\try_consume_api2\try_consume_api2\obj\Debug\try_consume_api2.w_employee.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.exe
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.pdb
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.pdb
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csprojResolveAssemblyReference.cache
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_bankcs.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_employee.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_logGetData.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_bankcs.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_employee.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_logGetData.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_BudgetPettyCash.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.pdb
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csprojAssemblyReference.cache
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_bankcs.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_BudgetPettyCash.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_employee.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_logGetData.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.cache
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csproj.CoreCompileInputs.cache
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csproj.CopyComplete
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.exe
+C:\Users\Bella\Documents\Visual Studio 2017\Project\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.pdb
+D:\fixing pos\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.exe
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.pdb
+D:\fixing pos\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.exe
+D:\fixing pos\Connector_Faster\try_consume_api2\bin\Debug\try_consume_api2.pdb
+D:\fixing pos\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+D:\fixing pos\Connector_Faster\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csprojResolveAssemblyReference.cache
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_bankcs.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_BudgetPettyCash.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_employee.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_logGetData.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+D:\fixing pos\Connector_Faster\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.Cache
+E:\Connector_Faster 23-11-2018\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+E:\Connector_Faster 23-11-2018\try_consume_api2\bin\Debug\try_consume_api2.exe
+E:\Connector_Faster 23-11-2018\try_consume_api2\bin\Debug\try_consume_api2.pdb
+E:\Connector_Faster 23-11-2018\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+E:\Connector_Faster 23-11-2018\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.csprojAssemblyReference.cache
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.w_bankcs.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_BudgetPettyCash.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.w_employee.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.w_logGetData.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.cache
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.csproj.CoreCompileInputs.cache
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.csproj.CopyComplete
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.exe
+E:\Connector_Faster 23-11-2018\try_consume_api2\obj\Debug\try_consume_api2.pdb
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.csprojAssemblyReference.cache
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.Form1.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.form_connector.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.Form_First_Opened.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Bank.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.Form_Reload_Employee.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.Form_utama.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.Properties.Resources.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.w_bankcs.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_BudgetPettyCash.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Coba_MEthod.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_CostCategory.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Get.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_DO_Put.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.w_employee.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Inventorycs.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_item_dmns.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.w_logGetData.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_MasterDiskon.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_MutasiOrder.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.w_petty_cash.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Promotion.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Request_order.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Return_order.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Select_Store.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_SeqNumber.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_StoreMaster.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.w_store_relasi.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Transaction.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_Voucher.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.csproj.GenerateResource.cache
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.csproj.CoreCompileInputs.cache
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.exe
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.pdb
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\bin\Debug\try_consume_api2.exe.config
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\bin\Debug\try_consume_api2.exe
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\bin\Debug\try_consume_api2.pdb
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\bin\Debug\Newtonsoft.Json.dll
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\bin\Debug\Newtonsoft.Json.xml
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.csproj.CopyComplete
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_TransToday.resources
+E:\Connector_Faster 23-11-2018 On or Off\try_consume_api2\obj\Debug\try_consume_api2.W_TransHistory.resources
